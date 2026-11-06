@@ -1,0 +1,15 @@
+{
+    "cmake.sourceDirectory": "/home/Phoenix/MPLABProjects/projekt1_elever/cmake/projekt1_elever/default",
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}/_build/projekt1_elever/default",
+    "mplab.clangd.arguments": [
+        "--header-insertion=never"
+    ],
+    "mplab.clangd.path": "/opt/microchip/xc8/v4.00/bin/xc8-clangd",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "gdbtarget",
+        "mplab-core-da"
+    ]
+}

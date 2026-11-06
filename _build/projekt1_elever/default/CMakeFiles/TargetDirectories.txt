@@ -1,0 +1,4 @@
+/home/Phoenix/MPLABProjects/projekt1_elever/_build/projekt1_elever/default/CMakeFiles/projekt1_elever_default_default_XC8_compile.dir
+/home/Phoenix/MPLABProjects/projekt1_elever/_build/projekt1_elever/default/CMakeFiles/projekt1_elever_default_image_MhtDNkaY.dir
+/home/Phoenix/MPLABProjects/projekt1_elever/_build/projekt1_elever/default/CMakeFiles/edit_cache.dir
+/home/Phoenix/MPLABProjects/projekt1_elever/_build/projekt1_elever/default/CMakeFiles/rebuild_cache.dir

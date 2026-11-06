@@ -1,0 +1,38 @@
+# ==============================================================================
+# MPLAB X IDE & XC Compilers
+# ==============================================================================
+# Exclude object files and build execution artifacts
+**/build/
+**/dist/
+
+# Exclude private, machine-specific configuration overrides
+**/nbproject/private/
+
+# Exclude MPLAB user state settings and local cache
+.mchp/
+.userpackages
+**/nbproject/Makefile-*
+**/nbproject/Package-*
+
+# ==============================================================================
+# VS Code Environment Files
+# ==============================================================================
+# Exclude the hidden VS Code state database, keeping task definitions
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/c_cpp_properties.json
+
+# Exclude local build/cache tracking folders from extensions
+.history/
+*.log
+
+# ==============================================================================
+# General C/C++ Artifacts
+# ==============================================================================
+*.o
+*.d
+*.elf
+*.hex
+*.cof

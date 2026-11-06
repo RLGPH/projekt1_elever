@@ -1,0 +1,11 @@
+# ninja log v7
+2	40	1793957352961776293	CMakeFiles/projekt1_elever_default_default_XC8_compile.dir/home/Phoenix/MPLABProjects/projekt1_elever/main.c.o	1350dbad7db255ea
+63	92	1793957353022776725	/home/Phoenix/MPLABProjects/projekt1_elever/out/projekt1_elever/default.elf	857d404417a9c413
+2	38	1793959018178836607	CMakeFiles/projekt1_elever_default_default_XC8_compile.dir/home/Phoenix/MPLABProjects/projekt1_elever/src/Timer/Timer.c.o	734c831481d54de2
+3	63	1793957352963646108	CMakeFiles/projekt1_elever_default_default_XC8_compile.dir/home/Phoenix/MPLABProjects/projekt1_elever/src/UART/Uart.c.o	21c1bd82d5c81a69
+1	38	1793959572503876833	CMakeFiles/projekt1_elever_default_default_XC8_compile.dir/home/Phoenix/MPLABProjects/projekt1_elever/main.c.o	1350dbad7db255ea
+1	43	1793959572505398280	CMakeFiles/projekt1_elever_default_default_XC8_compile.dir/home/Phoenix/MPLABProjects/projekt1_elever/src/Timer/Timer.c.o	734c831481d54de2
+2	70	1793959572505627463	CMakeFiles/projekt1_elever_default_default_XC8_compile.dir/home/Phoenix/MPLABProjects/projekt1_elever/src/UART/Uart.c.o	21c1bd82d5c81a69
+70	101	1793959572572877336	/home/Phoenix/MPLABProjects/projekt1_elever/out/projekt1_elever/default.elf	857d404417a9c413
+1	38	1793962187305843527	CMakeFiles/projekt1_elever_default_default_XC8_compile.dir/home/Phoenix/MPLABProjects/projekt1_elever/src/UART/Uart.c.o	21c1bd82d5c81a69
+38	53	1793962187342843724	/home/Phoenix/MPLABProjects/projekt1_elever/out/projekt1_elever/default.elf	857d404417a9c413
